@@ -23,3 +23,7 @@
   <br>mysql -u <myuser> -p < createscript.sql
 <br>
 <br>Note: Don't Forget to create a user and then grant it the right privileges on the "giftcode_api_db" database
+<br>
+<br>
+<br>
+<br>Edit the server.go configuration parameters to match the desired configuration
