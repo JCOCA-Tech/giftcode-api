@@ -3,7 +3,16 @@
 Install Golang:
   apt-get install golang
 
-cd into the giftcode-api directory
+
+
+Clone the repository:
+  git clone https://github.com/JCOCA-Tech/giftcode-api
+
+
+cd into the giftcode-api directory:
+  cd giftcode-api
+
+
 
 Set up Go dependencies: 
   go get
