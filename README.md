@@ -1,25 +1,25 @@
 # giftcode-api
 <br>
-Install Golang:
+<br>Install Golang:
   <br>apt-get install golang
 <br>
 <br>
 <br>
-Clone the repository:
+<br>Clone the repository:
   <br>git clone https://github.com/JCOCA-Tech/giftcode-api
 <br>
 <br>
-cd into the giftcode-api directory:
+<br>cd into the giftcode-api directory:
   <br>cd giftcode-api
 <br>
 <br>
 <br>
-Set up Go dependencies: 
+<br>Set up Go dependencies: 
   <br>go get
 <br>
 <br>
 <br>
-Run the mysql createscript (replace <myuser> with your actual username or root):
+<br>Run the mysql createscript (replace <myuser> with your actual username or root):
   <br>mysql -u <myuser> -p < createscript.sql
 <br>
-Note: Don't Forget to create a user and then grant it the right privileges on the "giftcode_api_db" database
+<br>Note: Don't Forget to create a user and then grant it the right privileges on the "giftcode_api_db" database
